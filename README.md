@@ -5,7 +5,7 @@ Postman Request and Response details
 
 - **Method :** POST
 - **URL :** 
-- **Request Body : ** - 
+- **Request Body :** - 
 ```
 {
 	"employeeId": 0,
@@ -27,7 +27,7 @@ Postman Request and Response details
 	}]
 }
 ```
-- **Response Body : **
+- **Response Body :**
 ```
 {
     "data": {
